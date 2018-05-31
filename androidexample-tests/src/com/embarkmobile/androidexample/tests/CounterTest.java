@@ -1,4 +1,5 @@
 package com.embarkmobile.androidexample.tests;
+package com.embarkmobile.androidexample.tests;
 
 import android.test.AndroidTestCase;
 import com.embarkmobile.androidexample.Counter;
